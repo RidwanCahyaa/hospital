@@ -63,18 +63,18 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0"> 
-                        <a href="index.php" class="nav-item nav-link active">Home</a>
+                        <a href="index.php" class="nav-item nav-link <?php if($halaman == "home"){ echo 'active';} ?>">Home</a>
                         <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Tentang RSKK</a>
+                            <a href="#" class="nav-link dropdown-toggle <?php if($halaman == "sejarah" || $halaman == "tentang"){ echo 'active';} ?>" data-bs-toggle="dropdown">Tentang RSKK</a>
                             <div class="dropdown-menu m-0">
-                                <a href="sejarah.php" class="dropdown-item">Sejarah Singkat</a>
-                                <a href="tentang.php" class="dropdown-item">Profile</a>
+                                <a href="sejarah.php" class="dropdown-item <?php if($halaman == "sejarah"){ echo 'active';} ?>">Sejarah Singkat</a>
+                                <a href="tentang.php" class="dropdown-item <?php if($halaman == "tentang"){ echo 'active';} ?>">Profile</a>
                             </div>
                         </div>
-                        <a href="berita.php" class="nav-item nav-link">Berita</a>
-                        <a href="404.php" class="nav-item nav-link">PPID</a>
-                        <a href="klinik.php" class="nav-item nav-link">Klinik</a>
-                        <a href="kontak.php" class="nav-item nav-link">Kontak</a>
+                        <a href="berita.php" class="nav-item nav-link <?php if($halaman == "berita"){ echo 'active';} ?>">Berita</a>
+                        <a href="404.php" class="nav-item nav-link <?php if($halaman == "ppid"){ echo 'active';} ?>">PPID</a>
+                        <a href="klinik.php" class="nav-item nav-link <?php if($halaman == "klinik"){ echo 'active';} ?>">Klinik</a>
+                        <a href="kontak.php" class="nav-item nav-link <?php if($halaman == "kontak"){ echo 'active';} ?>">Kontak</a>
                     </div>
                     <a href="https://regonline.rsmb.co.id/registrasi/baru" class="btn btn-primary rounded-pill text-white py-2 px-4 flex-wrap flex-sm-shrink-0">Registrasi Online</a>
                 </div>

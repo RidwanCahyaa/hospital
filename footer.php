@@ -21,12 +21,12 @@
                         <div class="footer-item d-flex flex-column">
                             <h4 class="mb-4 text-white">Quick Links</h4>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Home</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Tentang RSKK</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i>Profile</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Berita</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> PPID</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Klinik</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Kontak</a>
+                            <a href="sejarah.php"><i class="fas fa-angle-right me-2"></i> Sejarah</a>
+                            <a href="tentang.php"><i class="fas fa-angle-right me-2"></i> Profile</a>
+                            <a href="berita.php"><i class="fas fa-angle-right me-2"></i> Berita</a>
+                            <a href=".php"><i class="fas fa-angle-right me-2"></i> PPID</a>
+                            <a href="klinik.php"><i class="fas fa-angle-right me-2"></i> Klinik</a>
+                            <a href="kontak.php"><i class="fas fa-angle-right me-2"></i> Kontak</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">
