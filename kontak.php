@@ -30,7 +30,7 @@ include 'header.php';
             <div class="container py-5">
                 <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="sub-style mb-4">
-                        <h4 class="sub-title text-white px-3 mb-0">Contact Us</h4>
+                        <h4 class="sub-title text-white px-3 mb-0">Kontak Kami</h4>
                     </div>
                     <p class="mb-0 text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
                 </div>
@@ -86,21 +86,21 @@ include 'header.php';
                         <div class="bg-transparent rounded">
                             <div class="d-flex flex-column align-items-center text-center mb-4">
                                 <div class="bg-white d-flex align-items-center justify-content-center mb-3" style="width: 90px; height: 90px; border-radius: 50px;"><i class="fa fa-map-marker-alt fa-2x text-primary"></i></div>
-                                <h4 class="text-dark">Addresses</h4>
-                                <p class="mb-0 text-white">123 ranking Street, New York, USA</p>
+                                <h4 class="text-dark">Alamat</h4>
+                                <p class="mb-0 text-white"> Jl. Rancaekek No.Km.27, RW.No.612, Nanjungmekar, Kec. Rancaekek, Kabupaten Bandung, Jawa Barat 40394</p>
                             </div>
                             <div class="d-flex flex-column align-items-center text-center mb-4">
                                 <div class="bg-white d-flex align-items-center justify-content-center mb-3" style="width: 90px; height: 90px; border-radius: 50px;"><i class="fa fa-phone-alt fa-2x text-primary"></i></div>
-                                <h4 class="text-dark">Mobile</h4>
-                                <p class="mb-0 text-white">+012 345 67890</p>
-                                <p class="mb-0 text-white">+012 345 67890</p>
+                                <h4 class="text-dark">Ponsel</h4>
+                                <p class="mb-0 text-white">(022) 7798778</p>
+                                <p class="mb-0 text-white">(022) 7798778</p>
                             </div>
                            
                             <div class="d-flex flex-column align-items-center text-center">
                                 <div class="bg-white d-flex align-items-center justify-content-center mb-3" style="width: 90px; height: 90px; border-radius: 50px;"><i class="fa fa-envelope-open fa-2x text-primary"></i></div>
                                 <h4 class="text-dark">Email</h4>
-                                <p class="mb-0 text-white">info@example.com</p>
-                                <p class="mb-0 text-white">info@example.com</p>
+                                <p class="mb-0 text-white">rskk@jabarprov.go.id</p>
+                                <p class="mb-0 text-white">rskk@jabarprov.go.id</p>
                             </div>
                         </div>
                     </div>
@@ -112,9 +112,7 @@ include 'header.php';
                             <a class="btn btn-lg-square btn-light rounded-circle mx-2" href=""><i class="fab fa-linkedin-in"></i></a>
                         </div>
                         <div class="rounded h-100">
-                            <iframe class="rounded w-100" 
-                            style="height: 500px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd" 
-                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.352970216653!2d107.82374527499698!3d-6.967620893032981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68c500607fa96d%3A0x3a29d5eb58981562!2sRSKK%20Cicalengka!5e0!3m2!1sid!2sid!4v1728462692149!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
@@ -122,7 +120,7 @@ include 'header.php';
         </div>
         <!-- Contact End -->
            <!-- Feature Start -->
-        <div class="container-fluid feature py-5">
+        <!-- <div class="container-fluid feature py-5">
             <div class="container py-5">
                 <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="sub-style">
@@ -257,7 +255,7 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Feature End -->
 
         <?php include 'footer.php'; ?>
