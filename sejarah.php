@@ -26,24 +26,17 @@ include 'header.php';
                     </div>
                     <div class="col-lg-7 wow fadeInRight" data-wow-delay="0.4s">
                         <div class="section-title text-start mb-5">
-                            <h4 class="sub-title pe-3 mb-0">About Us</h4>
-                            <h1 class="display-3 mb-4">We are Ready to Help Improve Your Treatment.</h1>
-                            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
-                            <div class="mb-4">
-                                <p class="text-secondary"><i class="fa fa-check text-primary me-2"></i> Refresing to get such a personal touch.</p>
-                                <p class="text-secondary"><i class="fa fa-check text-primary me-2"></i> Duis aute irure dolor in reprehenderit in voluptate.</p>
-                                <p class="text-secondary"><i class="fa fa-check text-primary me-2"></i> Velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                            </div>
-                            <a href="#" class="btn btn-primary rounded-pill text-white py-3 px-5">Discover More</a>
+                            <h4 class="sub-title pe-3 mb-0">RSKK</h4>
+                            <h1 class="display-3 mb-4">Sejarah</h1>
+                            <p class="mb-4">rumah sakit pertama kali dibangun pada era Khalifah Al-Walid I yang memerintah dinasti Umayyah tahun 705-715 M/ 86-96 H. Al-Walid I membangun rumah sakit yang berasal dari tanah wakaf di wilayah Damaskus, Suriah.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- About End -->
+        <!-- About End
 
-
-        <!-- Team Start -->
+        Team Start
         <div class="container-fluid team py-5">
             <div class="container py-5">
                 <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
@@ -124,7 +117,7 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Team End -->
 
 
@@ -133,10 +126,9 @@ include 'header.php';
             <div class="container py-5">
                 <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="sub-style">
-                        <h4 class="sub-title px-3 mb-0">Why Choose Us</h4>
+                        <h4 class="sub-title px-3 mb-0">RSKK</h4>
                     </div>
-                    <h1 class="display-3 mb-4">Why Choose Us? Get Your Life Style Back</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
+                    <h1 class="display-3 mb-4">STRUKTUR ORGANISASI</h1>
                 </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">

@@ -6,26 +6,20 @@ include 'header.php';
     <!-- Carousel Start -->
             <div class="header-carousel owl-carousel">
                 <div class="header-carousel-item">
-                    <img src="img/carousel-1.jpg" class="img-fluid w-100" alt="Image">
+                    <img src="img/home1.jpg" class="img-fluid w-100" alt="Image">
                     <div class="carousel-caption">
                         <div class="carousel-caption-content p-3">
-                            <h5 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Physiotherapy Center</h5>
-                            <h1 class="display-1 text-capitalize text-white mb-4">Best Solution For Painful Life</h1>
-                            <p class="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                            </p>
-                            <a class="btn btn-primary rounded-pill text-white py-3 px-5" href="#">Book Appointment</a>
+                            <h5 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Rumah Sakit</h5>
+                            <h1 class="display-1 text-capitalize text-white mb-4">Kesehatan Kerja</h1>
                         </div>
                     </div>
                 </div>
                 <div class="header-carousel-item">
-                    <img src="img/carousel-2.jpg" class="img-fluid w-100" alt="Image">
+                    <img src="img/home2.jpg" class="img-fluid w-100" alt="Image">
                     <div class="carousel-caption">
                         <div class="carousel-caption-content p-3">
-                            <h5 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Physiotherapy Center</h5>
-                            <h1 class="display-1 text-capitalize text-white mb-4">Best Solution For Painful Life</h1>
-                            <p class="mb-5 fs-5 animated slideInDown">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                            </p>
-                            <a class="btn btn-primary rounded-pill text-white py-3 px-5" href="#">Book Appointment</a>
+                            <h5 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Rumah Sakit</h5>
+                            <h1 class="display-1 text-capitalize text-white mb-4">Kesehatan Kerja</h1>
                         </div>
                     </div>
                 </div>
@@ -40,140 +34,198 @@ include 'header.php';
         </div>
         <!-- Spinner End -->
 
-        <!-- Services Start -->
-        <div class="container-fluid service py-5">
+                <!-- Feature Start -->
+                <div class="container-fluid feature py-5">
             <div class="container py-5">
-                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="sub-style">
-                        <h4 class="sub-title px-3 mb-0">What We Do</h4>
+                        <h4 class="sub-title px-3 mb-0">RSKK</h4>
                     </div>
-                    <h1 class="display-3 mb-4">Our Service Given Physio Therapy By Expert.</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
+                    <h1 class="display-3 mb-4">PELAYANAN</h1>
                 </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-1.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Message Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fas fa-diagnoses fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Instalasi Gawat Darurat  RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-2.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Physiotherapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fas fa-briefcase-medical fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Instalasi Rawat Inap  RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-3.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Heat & Cold Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fas fa-hospital-user fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Poliklinik Jantung  RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-4.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Chiropatic Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fas fa-users fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Pelayanan Kemoterapi  RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-5.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Work Injuries</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fas fa-spa fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Klinik Paru  RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-6.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Spot Injuries</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fas fa-heart fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Dukungan Psikologis Awal (DUPA)  RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-7.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Regular Therapy</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fab fa-pied-piper fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Instalasi Gawat darurat  RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
-                        <div class="service-item rounded">
-                           <div class="service-img rounded-top">
-                                <img src="img/service-8.jpg" class="img-fluid rounded-top w-100" alt="">
-                           </div>
-                            <div class="service-content rounded-bottom bg-light p-4">
-                                <div class="service-content-inner">
-                                    <h5 class="mb-4">Back Pain</h5>
-                                    <p class="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
-                                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
+                        <div class="row-cols-1 feature-item p-4">
+                            <div class="col-12">
+                                <div class="feature-icon mb-4">
+                                    <div class="p-3 d-inline-flex bg-white rounded">
+                                        <i class="fas fa-user-md fa-4x text-primary"></i>
+                                    </div>
+                                </div>
+                                <div class="feature-content d-flex flex-column">
+                                    <h5 class="mb-4">Pelayanan Rehabilitasi medik RS KK</h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.2s">
-                        <a class="btn btn-primary rounded-pill text-white py-3 px-5" href="#">Services More</a>
+                        <a href="#" class="btn btn-primary rounded-pill text-white py-3 px-5">More Details</a>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- Feature End -->
+
+        <!-- Services Start -->
+        <div class="container-fluid service py-5">
+            <div class="container py-5">
+                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="sub-style">
+                        <h4 class="sub-title px-3 mb-0">RSKK</h4>
+                    </div>
+                    <h1 class="display-3 mb-4">FASILITAS</h1>
+                </div>
+
+                <div class="row g-4 justify-content-center">
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item rounded">
+                           <div class="service-img rounded-top">
+                                <img src="img/wifi.jpg" class="img-fluid rounded-top w-100" alt="">
+                           </div>
+                            <div class="service-content rounded-bottom">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item rounded">
+                           <div class="service-img rounded-top">
+                                <img src="img/tv.jpg" class="img-fluid rounded-top w-100" alt="">
+                           </div>
+                            <div class="service-content rounded-bottom">
+                                <div class="service-content-inner">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="service-item rounded">
+                           <div class="service-img rounded-top">
+                                <img src="img/pelayan.jpg" class="img-fluid rounded-top w-100" alt="">
+                           </div>
+                            <div class="service-content rounded-bottom">
+                                <div class="service-content-inner">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="service-item rounded">
+                           <div class="service-img rounded-top">
+                                <img src="img/AC.jpg" class="img-fluid rounded-top w-100" alt="">
+                           </div>
+                            <div class="service-content rounded-bottom">
+                                <div class="service-content-inner">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+ 
         <!-- Services End -->
 
 
         <!-- About Start -->
-        <div class="container-fluid about bg-light py-5">
+        <!-- <div class="container-fluid about bg-light py-5">
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-5 wow fadeInLeft" data-wow-delay="0.2s">
@@ -200,151 +252,12 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- About End -->
-
-        <!-- Feature Start -->
-        <div class="container-fluid feature py-5">
-            <div class="container py-5">
-                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="sub-style">
-                        <h4 class="sub-title px-3 mb-0">Why Choose Us</h4>
-                    </div>
-                    <h1 class="display-3 mb-4">Why Choose Us? Get Your Life Style Back</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
-                </div>
-                <div class="row g-4 justify-content-center">
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-diagnoses fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Licensed Therapist</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-briefcase-medical fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Personalized Treatment</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-hospital-user fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Therapy Goals</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-users fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Practitioners Network</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-spa fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Comfortable Center</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-heart fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Experienced Stuff</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fab fa-pied-piper fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Therapy Goals</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
-                        <div class="row-cols-1 feature-item p-4">
-                            <div class="col-12">
-                                <div class="feature-icon mb-4">
-                                    <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-user-md fa-4x text-primary"></i>
-                                    </div>
-                                </div>
-                                <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Licensed Therapist</h5>
-                                    <p class="mb-0">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus,</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.2s">
-                        <a href="#" class="btn btn-primary rounded-pill text-white py-3 px-5">More Details</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Feature End -->
 
 
         <!-- Book Appointment Start -->
-        <div class="container-fluid appointment py-5">
+        <!-- <div class="container-fluid appointment py-5">
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2">
@@ -425,30 +338,30 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Modal Video -->
-        <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <!-- <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content rounded-0">
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">Youtube Video</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
-                    <div class="modal-body">
+                    <div class="modal-body"> -->
                         <!-- 16:9 aspect ratio -->
-                        <div class="ratio ratio-16x9">
+                        <!-- <div class="ratio ratio-16x9">
                             <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
                                 allow="autoplay"></iframe>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Book Appointment End -->
 
 
         <!-- Team Start -->
-        <div class="container-fluid team py-5">
+        <!-- <div class="container-fluid team py-5">
             <div class="container py-5">
                 <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="sub-style">
@@ -528,12 +441,12 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Team End -->
 
 
         <!-- Testimonial Start -->
-        <div class="container-fluid testimonial py-5 wow zoomInDown" data-wow-delay="0.1s">
+        <!-- <div class="container-fluid testimonial py-5 wow zoomInDown" data-wow-delay="0.1s">
             <div class="container py-5">
                 <div class="section-title mb-5">
                     <div class="sub-style">
@@ -604,7 +517,7 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Testimonial End -->
 
 
@@ -613,10 +526,9 @@ include 'header.php';
             <div class="container py-5">
                 <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="sub-style">
-                        <h4 class="sub-title px-3 mb-0">Our Blog</h4>
+                        <h4 class="sub-title px-3 mb-0">RSKK</h4>
                     </div>
-                    <h1 class="display-3 mb-4">Excellent Facility and High Quality Therapy</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
+                    <h1 class="display-3 mb-4">BERITA</h1>
                 </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -663,13 +575,54 @@ include 'header.php';
                                 </div>
                                 <a href="#" class="h4">Regular excercise can slow ageing process</a>
                                 <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic consequatur beatae architecto,</p>
-                                <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
+                                <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
                             </div>
                         </div>
+                    </div>
+                    <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.2s">
+                        <a href="berita.php " class="btn btn-primary rounded-pill text-white py-3 px-5">Berita Lainnya</a>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Blog End -->
 
+        <!-- Testimonial Start -->
+        <div class="container-fluid testimonial py-5 wow zoomInDown" data-wow-delay="0.1s">
+            <div class="container py-5">
+                <div class="section-title mb-5">
+                    <div class="sub-style">
+                        <h4 class="sub-title text-white px-3 mb-0">RSKK</h4>
+                    </div>
+                    <h1 class="display-3 mb-4">Bekerja Sama Dengan</h1>
+                </div>
+                <div class="testimonial-carousel owl-carousel">
+                    <div class="testimonial-item">
+                        <div class="testimonial-inner p-5">
+                            <div class="testimonial">
+                                <img src="img/jasamarga.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <div class="testimonial-inner p-5">
+                            <div class="testimonial">
+                                <img src="img/bpjs.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <div class="testimonial-inner p-5">
+                            <div class="testimonial">
+                                <img src="img/tot.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->        
+         
         <?php include 'footer.php'; ?>
