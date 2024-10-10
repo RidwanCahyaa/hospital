@@ -33,7 +33,12 @@ include 'header.php';
                         <h4 class="sub-title px-3 mb-0">RSKK</h4>
                     </div>
                     <h1 class="display-3 mb-4">VISI & MISI</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
+                    <h2 class="mb-4">visi</h2>
+                    <p>Menjadi RSUD dengan ungulan kesehatan kerja</p>
+
+                    <h2 class="mb-4">misi</h2>
+                    <p>Menyelenggarakan Pelayanan Kesehatan Rujukan yang Komprehensif dan Holistik, Berkualitas dengan Unggulan Kesehatan Kerja.
+& Berkontribusi dalam Pendidikan, Pelatihan, Penelitian dan Pengembangan di bidang Kesehatan Kerja</p>
                 </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">

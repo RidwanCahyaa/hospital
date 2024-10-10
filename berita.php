@@ -51,6 +51,7 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
+                    
                     <div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="blog-item rounded">
                             <div class="blog-img">
@@ -67,6 +68,58 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="blog-item rounded">
+                            <div class="blog-img">
+                                <img src="img/blog-3.jpg" class="img-fluid w-100" alt="Image">
+                            </div>
+                            <div class="blog-centent p-4">
+                                <div class="d-flex justify-content-between mb-4">
+                                    <p class="mb-0 text-muted"><i class="fa fa-calendar-alt text-primary"></i> 01 Jan 2045</p>
+                                    <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
+                                </div>
+                                <a href="#" class="h4">Regular excercise can slow ageing process</a>
+                                <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic consequatur beatae architecto,</p>
+                                <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="blog-item rounded">
+                            <div class="blog-img">
+                                <img src="img/blog-1.jpg" class="img-fluid w-100" alt="Image">
+                            </div>
+                            <div class="blog-centent p-4">
+                                <div class="d-flex justify-content-between mb-4">
+                                    <p class="mb-0 text-muted"><i class="fa fa-calendar-alt text-primary"></i> 01 Jan 2045</p>
+                                    <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
+                                </div>
+                                <a href="#" class="h4">Remove back pain while working on a physio</a>
+                                <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic consequatur beatae architecto,</p>
+                                <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="blog-item rounded">
+                            <div class="blog-img">
+                                <img src="img/blog-2.jpg" class="img-fluid w-100" alt="Image">
+                            </div>
+                            <div class="blog-centent p-4">
+                                <div class="d-flex justify-content-between mb-4">
+                                    <p class="mb-0 text-muted"><i class="fa fa-calendar-alt text-primary"></i> 01 Jan 2045</p>
+                                    <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
+                                </div>
+                                <a href="#" class="h4">Benefits of a weekly physiotherapy session</a>
+                                <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic consequatur beatae architecto,</p>
+                                <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-md-6 col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="blog-item rounded">
                             <div class="blog-img">
