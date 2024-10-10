@@ -83,8 +83,28 @@
         <script src="lib/easing/easing.min.js"></script>
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/rcbrand/jquery.rcbrand.js"></script>
 
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
+
+        <script type="text/javascript">
+
+            $(window).on('load', function(){
+
+
+                $("#rcbrand2").rcbrand({
+                    visibleItems: 4,
+                    itemsToScroll: 1,
+                    autoPlay: {
+                        enable: true,
+                        interval: 3000,
+                        pauseOnHover: true
+                    }
+                });
+
+            });
+        </script>   
+
 </body>
 </html>

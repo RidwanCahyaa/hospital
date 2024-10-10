@@ -287,38 +287,28 @@ include 'header.php';
 
     <!-- Testimonial Start -->
     <div class="container-fluid testimonial py-5 wow zoomInDown" data-wow-delay="0.1s">
-        <div class="container py-5">
+        < class="container py-5">
             <div class="section-title mb-5">
                 <div class="sub-style">
                     <h4 class="sub-title text-white px-3 mb-0">RSKK</h4>
                 </div>
                 <h1 class="display-3 mb-4">Bekerja Sama Dengan</h1>
             </div>
-            <div class="testimonial-carousel owl-carousel">
-                <div class="testimonial-item">
-                    <div class="testimonial-inner p-5">
-                        <div class="testimonial">
-                            <img src="img/jasamarga.png" class="img-fluid" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-item">
-                    <div class="testimonial-inner p-5">
-                        <div class="testimonial">
-                            <img src="img/bpjs.png" class="img-fluid" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-item">
-                    <div class="testimonial-inner p-5">
-                        <div class="testimonial">
-                            <img src="img/tot.png" class="img-fluid" alt="">
-                        </div>
-                    </div>
+            <div class="container">
+                <div class="row">
+                    <ul id="rcbrand2">
+                        <li><img src="img/jasamarga.png" /></li>
+                        <li><img src="img/bpjs.png" /></li>
+                        <li><img src="img/tot.png" /></li>
+                        <li><img src="img/jasamarga.png" /></li>
+                        <li><img src="img/bpjs.png" /></li>
+                        <li><img src="img/tot.png" /></li>
+                        <li><img src="img/jasamarga.png" /></li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Testimonial End -->        
+    <!-- Testimonial End -->      
         
     <?php include 'footer.php'; ?>
