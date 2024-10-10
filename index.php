@@ -297,13 +297,11 @@ include 'header.php';
             <div class="container">
                 <div class="row">
                     <ul id="rcbrand2">
-                        <li><img src="img/jasamarga.png" /></li>
-                        <li><img src="img/bpjs.png" /></li>
-                        <li><img src="img/tot.png" /></li>
-                        <li><img src="img/jasamarga.png" /></li>
-                        <li><img src="img/bpjs.png" /></li>
-                        <li><img src="img/tot.png" /></li>
-                        <li><img src="img/jasamarga.png" /></li>
+                        <li><img src="img/partner/bpjs_kesehatan.png" /></li>
+                        <li><img src="img/partner/bpjs_ketenagakerjaan.png" /></li>
+                        <li><img src="img/partner/jasamarga.png" /></li>
+                        <li><img src="img/partner/logo_aia.png" /></li>
+                        <li><img src="img/partner/pemprov_jabar.png" /></li>
                     </ul>
                 </div>
             </div>
