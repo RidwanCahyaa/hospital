@@ -45,17 +45,37 @@ include 'header.php';
     <div class="container py-5">
         <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="sub-style">
-                <h4 class="sub-title px-3 mb-0">Meet our team</h4>
+                <h4 class="sub-title px-3 mb-0">__</h4>
             </div>
-            <h1 class="display-3 mb-4">Physiotherapy Services from Professional Therapist</h1>
-            <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
+            <h1 class="display-3 mb-4">Jadwal Dokter</h1>
+            <p class="mb-0"></p>
         </div>
         <div class="row g-4 justify-content-center">
-            <table>
+            <table style="width:100%">
                 <tr>
                     <th>Dokter</th>
                     <th>Hari</th>
                     <th>Jam</th>
+                </tr>
+                <tr>
+                    <td>Ridwan Cahya</td>
+                    <td>Senin, Rabu & Kamis</td>
+                    <td>09:00-11:00</td>
+                </tr>
+                <tr>
+                    <td>Acep Arimansyah</td>
+                    <td>Selasa & Jumat</td>
+                    <td>08:00-11:30</td>
+                </tr>
+                <tr>
+                    <td>Ridwan Cahya</td>
+                    <td>Senin, Rabu & Kamis</td>
+                    <td>09:00-11:00</td>
+                </tr>
+                <tr>
+                    <td>Acep Arimansyah</td>
+                    <td>Selasa & Jumat</td>
+                    <td>08:00-11:30</td>
                 </tr>
                 <tr>
                     <td>Ridwan Cahya</td>

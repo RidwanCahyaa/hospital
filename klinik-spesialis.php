@@ -33,7 +33,6 @@ include 'header.php';
                                 <p class="text-secondary"><i class="fa fa-check text-primary me-2"></i> Pengobatan Cedera Kerja.</p>
                                 <p class="text-secondary"><i class="fa fa-check text-primary me-2"></i>Program Pencegahan.</p>
                             </div>
-                            <a href="klinik.php" class="btn btn-primary rounded-pill text-white py-3 px-5">Discover More</a>
                         </div>
                     </div>
                 </div>
@@ -41,86 +40,54 @@ include 'header.php';
         </div>
         <!-- About End -->
 
-        <!-- Team Start -->
+<!-- Team Start -->
 <div class="container-fluid team py-5">
     <div class="container py-5">
         <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="sub-style">
-                <h4 class="sub-title px-3 mb-0">Meet our team</h4>
+                <h4 class="sub-title px-3 mb-0">__</h4>
             </div>
-            <h1 class="display-3 mb-4">Physiotherapy Services from Professional Therapist</h1>
-            <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
+            <h1 class="display-3 mb-4">Jadwal Dokter</h1>
+            <p class="mb-0"></p>
         </div>
         <div class="row g-4 justify-content-center">
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="team-item rounded">
-                    <div class="team-img rounded-top h-100">
-                        <img src="img/team-1.jpg" class="img-fluid rounded-top w-100" alt="">
-                        <div class="team-icon d-flex justify-content-center">
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
-                        <h5>Full Name</h5>
-                        <p class="mb-0">Message Physio Therapist</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="team-item rounded">
-                    <div class="team-img rounded-top h-100">
-                        <img src="img/team-2.jpg" class="img-fluid rounded-top w-100" alt="">
-                        <div class="team-icon d-flex justify-content-center">
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
-                        <h5>Full Name</h5>
-                        <p class="mb-0">Rehabilitation Therapist</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
-                <div class="team-item rounded">
-                    <div class="team-img rounded-top h-100">
-                        <img src="img/team-3.jpg" class="img-fluid rounded-top w-100" alt="">
-                        <div class="team-icon d-flex justify-content-center">
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
-                        <h5>Full Name</h5>
-                        <p class="mb-0">Doctor of Physical therapy</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
-                <div class="team-item rounded">
-                    <div class="team-img rounded-top h-100">
-                        <img src="img/team-4.jpg" class="img-fluid rounded-top w-100" alt="">
-                        <div class="team-icon d-flex justify-content-center">
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
-                        <h5>Full Name</h5>
-                        <p class="mb-0">Doctor of Physical therapy</p>
-                    </div>
-                </div>
-            </div>
-            <a href="klinik.php" class="btn btn-primary rounded-pill text-white py-3 px-5">Discover More</a>
+            <table style="width:100%">
+                <tr>
+                    <th>Dokter</th>
+                    <th>Hari</th>
+                    <th>Jam</th>
+                </tr>
+                <tr>
+                    <td>Ridwan Cahya</td>
+                    <td>Senin, Rabu & Kamis</td>
+                    <td>09:00-11:00</td>
+                </tr>
+                <tr>
+                    <td>Acep Arimansyah</td>
+                    <td>Selasa & Jumat</td>
+                    <td>08:00-11:30</td>
+                </tr>
+                <tr>
+                    <td>Ridwan Cahya</td>
+                    <td>Senin, Rabu & Kamis</td>
+                    <td>09:00-11:00</td>
+                </tr>
+                <tr>
+                    <td>Acep Arimansyah</td>
+                    <td>Selasa & Jumat</td>
+                    <td>08:00-11:30</td>
+                </tr>
+                <tr>
+                    <td>Ridwan Cahya</td>
+                    <td>Senin, Rabu & Kamis</td>
+                    <td>09:00-11:00</td>
+                </tr>
+                <tr>
+                    <td>Acep Arimansyah</td>
+                    <td>Selasa & Jumat</td>
+                    <td>08:00-11:30</td>
+                </tr>
+            </table>
         </div>
     </div>
 </div>
