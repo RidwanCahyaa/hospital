@@ -571,7 +571,7 @@
     background: var(--bs-light);
     transition: 0.5s;
     height: 100%;
-
+    text-align: center;
 }
 
 .feature .feature-item::before {
