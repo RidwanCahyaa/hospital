@@ -355,8 +355,8 @@ include 'header.php';
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
                             <a href="readmore1.php" class="h4">Asam Urat</a>
-                            <p class="my-4">Asam urat atau gout adalah penyakit yang disebabkan oleh penumpukan kristal asam urat di sendi, sehingga menyebabkan peradangan dan nyeri. Gejala asam urat yang umum terjadi adalah: Nyeri yang tidak tertahankan, Pembengkakan, Rasa panas di persendian, Kemerahan                
-                              <a href="readmore3.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
+                            <p class="my-4">Asam urat atau gout adalah penyakit yang disebabkan oleh penumpukan kristal asam urat di sendi, sehingga menyebabkan peradangan dan nyeri. Gejala asam urat yang umum terjadi adalah: Nyeri yang tidak tertahankan, Pembengkakan, Rasa panas di persendian, Kemerahan</p>              
+                            <a href="readmore3.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
                         </div>
                     </div>
                 </div>
