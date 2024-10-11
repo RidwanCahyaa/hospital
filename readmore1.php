@@ -11,7 +11,7 @@ include 'header.php';
 <!-- Spinner End -->
 
 <!-- About Start -->
-div class="container-fluid about bg-light py-5">
+<div class="container-fluid about bg-light py-5">
     <div class="container py-5">
         <div class="row g-5 align-items-center">
             <div class="col-lg-5 wow fadeInLeft" data-wow-delay="0.2s">

@@ -162,6 +162,89 @@ include 'header.php';
     </div>
     <!-- Feature End -->
 
+    <!-- Team Start -->
+    <div class="container-fluid team py-5">
+            <div class="container py-5">
+                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="sub-style">
+                        <h4 class="sub-title px-3 mb-0">RSKK</h4>
+                    </div>
+                    <h1 class="display-3 mb-4">DOKTER</h1></h1>
+                </div>
+                <div class="row g-4 justify-content-center" >
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item rounded">
+                            <div class="team-img rounded-top h-100">
+                                <img src="img/team-1.jpg" class="img-fluid rounded-top w-100" alt="">
+                                <div class="team-icon d-flex justify-content-center">
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
+                                <h5>Full Name</h5>
+                                <p class="mb-0">Message Physio Therapist</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item rounded">
+                            <div class="team-img rounded-top h-100">
+                                <img src="img/team-2.jpg" class="img-fluid rounded-top w-100" alt="">
+                                <div class="team-icon d-flex justify-content-center">
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
+                                <h5>Full Name</h5>
+                                <p class="mb-0">Rehabilitation Therapist</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-item rounded">
+                            <div class="team-img rounded-top h-100">
+                                <img src="img/team-3.jpg" class="img-fluid rounded-top w-100" alt="">
+                                <div class="team-icon d-flex justify-content-center">
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
+                                <h5>Full Name</h5>
+                                <p class="mb-0">Doctor of Physical therapy</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="team-item rounded">
+                            <div class="team-img rounded-top h-100">
+                                <img src="img/team-4.jpg" class="img-fluid rounded-top w-100" alt="">
+                                <div class="team-icon d-flex justify-content-center">
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
+                                <h5>Full Name</h5>
+                                <p class="mb-0">Doctor of Physical therapy</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Team End -->
+
     <!-- Services Start -->
     <div class="container-fluid service py-5">
         <div class="container py-5">
@@ -240,7 +323,8 @@ include 'header.php';
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
                             <a href="readmore1.php" class="h4">Keseleo</a>
-                            <p class="my-4">Istirahatkan bagian yang cedera selama 2–3 hari, atau sampai nyeri berkurang. Hindari aktivitas berat dan berjalan terlalu banyak.                     <a href="readmore1.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
+                            <p class="my-4">Istirahatkan bagian yang cedera selama 2–3 hari, atau sampai nyeri berkurang. Hindari aktivitas berat dan berjalan terlalu banyak.
+                                <a href="readmore1.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -271,7 +355,8 @@ include 'header.php';
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
                             <a href="readmore1.php" class="h4">Asam Urat</a>
-                            <p class="my-4">Asam urat atau gout adalah penyakit yang disebabkan oleh penumpukan kristal asam urat di sendi, sehingga menyebabkan peradangan dan nyeri. Gejala asam urat yang umum terjadi adalah: Nyeri yang tidak tertahankan, Pembengkakan, Rasa panas di persendian, Kemerahan                  <a href="readmore3.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
+                            <p class="my-4">Asam urat atau gout adalah penyakit yang disebabkan oleh penumpukan kristal asam urat di sendi, sehingga menyebabkan peradangan dan nyeri. Gejala asam urat yang umum terjadi adalah: Nyeri yang tidak tertahankan, Pembengkakan, Rasa panas di persendian, Kemerahan                
+                              <a href="readmore3.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
                         </div>
                     </div>
                 </div>

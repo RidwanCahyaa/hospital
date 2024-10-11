@@ -10,9 +10,19 @@ include 'header.php';
             </div>
         </div>
         <!-- Spinner End -->
+        <div class="container-fluid blog py-5">
+        <div class="container py-5"></div>
+            <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="sub-style">
+                    <h4 class="sub-title px-3 mb-0">RSKK</h4>
+                </div>
+                <h1 class="display-3 mb-4">SEJARAH</h1>
+                <p>nama saya nama Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam delectus culpa dolore perspiciatis rerum, nemo quo eius laudantium? Inventore quisquam maiores repudiandae blanditiis assumenda iste pariatur eos, distinctio optio sequi.</p>
+            </div>
+        </div>
 
         <!-- About Start -->
-        <div class="container-fluid about bg-light py-5">
+        <!-- <div class="container-fluid about bg-light py-5">
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-5 wow fadeInLeft" data-wow-delay="0.2s">
@@ -26,8 +36,9 @@ include 'header.php';
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- About End
+         
 
         Team Start
         <div class="container-fluid team py-5">
@@ -112,6 +123,7 @@ include 'header.php';
             </div>
         </div> -->
         <!-- Team End -->
+
 
 
         <?php include 'footer.php'; ?>
