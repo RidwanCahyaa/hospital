@@ -239,9 +239,8 @@ include 'header.php';
                                 <p class="mb-0 text-muted"><i class="fa fa-calendar-alt text-primary"></i> 01 Jan 2045</p>
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
-                            <a href="#" class="h4">Remove back Pain While Working on o physio</a>
-                            <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic consequatur beatae architecto,</p>
-                            <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
+                            <a href="readmore1.php" class="h4">Keseleo</a>
+                            <p class="my-4">Istirahatkan bagian yang cedera selama 2–3 hari, atau sampai nyeri berkurang. Hindari aktivitas berat dan berjalan terlalu banyak.                     <a href="readmore1.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -255,9 +254,9 @@ include 'header.php';
                                 <p class="mb-0 text-muted"><i class="fa fa-calendar-alt text-primary"></i> 01 Jan 2045</p>
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
-                            <a href="#" class="h4">Benefits of a weekly physiotherapy session</a>
-                            <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic consequatur beatae architecto,</p>
-                            <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
+                            <a href="readmore2.php" class="h4">Nyeri Otot</a>
+                            <p class="my-4">Cedera olahraga dan ketegangan karena penggunaan berlebih adalah penyebab paling umum nyeri otot. Mari perhatikan bagaimana mengenali dan menangani nyeri otot</p>
+                            <a href="readmore2.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -271,9 +270,8 @@ include 'header.php';
                                 <p class="mb-0 text-muted"><i class="fa fa-calendar-alt text-primary"></i> 01 Jan 2045</p>
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
-                            <a href="#" class="h4">Regular excercise can slow ageing process</a>
-                            <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic consequatur beatae architecto,</p>
-                            <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
+                            <a href="readmore1.php" class="h4">Asam Urat</a>
+                            <p class="my-4">Asam urat atau gout adalah penyakit yang disebabkan oleh penumpukan kristal asam urat di sendi, sehingga menyebabkan peradangan dan nyeri. Gejala asam urat yang umum terjadi adalah: Nyeri yang tidak tertahankan, Pembengkakan, Rasa panas di persendian, Kemerahan                  <a href="readmore3.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
                         </div>
                     </div>
                 </div>
@@ -287,7 +285,7 @@ include 'header.php';
 
     <!-- Testimonial Start -->
     <div class="container-fluid testimonial py-5 wow zoomInDown" data-wow-delay="0.1s">
-        < class="container py-5">
+        <div class="container py-5">
             <div class="section-title mb-5">
                 <div class="sub-style">
                     <h4 class="sub-title text-white px-3 mb-0">RSKK</h4>
