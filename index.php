@@ -323,7 +323,7 @@ include 'header.php';
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
                             <a href="readmore1.php" class="h4">Keseleo</a>
-                            <p class="my-4">Istirahatkan bagian yang cedera selama 2–3 hari, atau sampai nyeri berkurang. Hindari aktivitas berat dan berjalan terlalu banyak.
+                            <p class="my-4">Istirahatkan bagian yang cedera selama 2–3 hari, atau sampai nyeri berkurang. Hindari aktivitas berat dan berjalan terlalu banyak.</p>
                                 <a href="readmore1.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
                         </div>
                     </div>
@@ -355,7 +355,7 @@ include 'header.php';
                                 <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                             </div>
                             <a href="readmore1.php" class="h4">Asam Urat</a>
-                            <p class="my-4">Asam urat atau gout adalah penyakit yang disebabkan oleh penumpukan kristal asam urat di sendi, sehingga menyebabkan peradangan dan nyeri. Gejala asam urat yang umum terjadi adalah: Nyeri yang tidak tertahankan, Pembengkakan, Rasa panas di persendian, Kemerahan                
+                            <p class="my-4">Asam urat atau gout adalah penyakit yang disebabkan oleh penumpukan kristal asam urat di sendi, sehingga menyebabkan peradangan dan nyeri.</p>                
                               <a href="readmore3.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>                                
                         </div>
                     </div>
