@@ -46,7 +46,7 @@ include 'header.php';
                                     <a href="readmore1.php" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                                 </div>
                                 <a href="readmore1.php" class="h4">Keseleo</a>
-                                <p class="my-4">Istirahatkan bagian yang cedera selama 2–3 hari, atau sampai nyeri berkurang. Hindari aktivitas berat dan berjalan terlalu banyak.                        
+                                <p class="my-4">Istirahatkan bagian yang cedera selama 2–3 hari, atau sampai nyeri berkurang. Hindari aktivitas berat dan berjalan terlalu banyak.</p>
                                 <a href="readmore1.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
                             </div>
                         </div>
@@ -63,7 +63,7 @@ include 'header.php';
                                     <a href="#" class="text-muted"><span class="fa fa-comments text-primary"></span> 3 Comments</a>
                                 </div>
                                 <a href="readmore2.php" class="h4">NYERI OTOT</a>
-                                <p class="my-4">Cedera olahraga dan ketegangan karena penggunaan berlebih adalah penyebab paling umum nyeri otot. Mari perhatikan bagaimana mengenali dan menangani nyeri otot                     
+                                <p class="my-4">Cedera olahraga dan ketegangan karena penggunaan berlebih adalah penyebab paling umum nyeri otot. Mari perhatikan bagaimana mengenali dan menangani nyeri otot</p>
                                 <a href="readmore2.php" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Read More</a>
                             </div>
                         </div>
