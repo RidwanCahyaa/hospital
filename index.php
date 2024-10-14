@@ -44,7 +44,7 @@ include 'header.php';
                 <h1 class="display-3 mb-4">PELAYANAN</h1>
             </div>
             <div class="row g-4 justify-content-center">
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="row-cols-1 feature-item p-4">
                         <div class="col-12">
                             <div class="feature-icon mb-4">
@@ -59,7 +59,7 @@ include 'header.php';
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="row-cols-1 feature-item p-4">
                         <div class="col-12">
                             <div class="feature-icon mb-4">
@@ -74,7 +74,7 @@ include 'header.php';
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="row-cols-1 feature-item p-4">
                         <div class="col-12">
                             <div class="feature-icon mb-4">
@@ -89,7 +89,7 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -104,7 +104,7 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -119,7 +119,7 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="col-md-6 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -227,7 +227,7 @@ include 'header.php';
                 <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item rounded">
                         <div class="service-img rounded-top">
-                            <img src="img/kelas1.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <img src="img/kelas1.jpeg" class="img-fluid rounded-top w-100" alt="">
                             <h5 class="mb-4">Ruang Kelas 1</h5>
                         </div>
                         <div class="service-content rounded-bottom">
