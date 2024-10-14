@@ -545,7 +545,7 @@
     border: 10px solid; 
     border-color: var(--bs-white) var(--bs-white) var(--bs-white) var(--bs-white);
     border-radius: 50%;
-
+    height: 300px;
 }
 
 .about .about-img .about-experience {
