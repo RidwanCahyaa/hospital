@@ -27,6 +27,12 @@
         <!-- Slider Logo -->
         <link href="lib/rcbrand/style.css" rel="stylesheet">
 
+        <!-- Timeline -->
+        <?php if($halaman == "sejarah"){ echo '<link rel="stylesheet" href="lib/timeline/styles.css">';} ?>
+
+        <!-- dokter -->
+        <link href="lib/dokter/style.css">
+
         <!-- Template Stylesheet -->
         <link href="css/style.css" rel="stylesheet">
 </head>
