@@ -53,7 +53,8 @@ include 'header.php';
                                 </div>
                             </div>
                             <div class="feature-content d-flex flex-column">
-                                <h5 class="mb-4">Instalasi Gawat Darurat  RS KK</h5>
+                                <h5 class="mb-4">Professional Medical Staf.</h5>
+                                <p class="mb-4"> Medical centers have experienced professionals</p>
                             </div>
                         </div>
                     </div>
@@ -67,7 +68,8 @@ include 'header.php';
                                 </div>
                             </div>
                             <div class="feature-content d-flex flex-column">
-                                <h5 class="mb-4">Instalasi Rawat Inap  RS KK</h5>
+                                <h5 class="mb-4">24/7 Services</h5>           
+                                <p class="mb-4">They offer round-the-clock emergency services</p>
                             </div>
                         </div>
                     </div>
@@ -81,7 +83,8 @@ include 'header.php';
                                 </div>
                             </div>
                                 <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Poliklinik Jantung  RS KK</h5>
+                                    <h5 class="mb-4">Readynes</h5>
+                                    <p class="mb-4"> isolation room for infectious diseases</p>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +98,8 @@ include 'header.php';
                                     </div>
                                 </div>
                                 <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Pelayanan Kemoterapi  RS KK</h5>
+                                    <h5 class="mb-4">Inpatient Facilities</h5>
+                                    <p class="mb-4">Medical centers prioritize high safety standards</p>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +113,8 @@ include 'header.php';
                                     </div>
                                 </div>
                                 <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Klinik Paru  RS KK</h5>
+                                    <h5 class="mb-4">Ambulance Quick Response </h5>
+                                    <p class="mb-4">Immediate, rapid emergency medical assistance.</p>
                                 </div>
                             </div>
                         </div>
@@ -123,12 +128,13 @@ include 'header.php';
                                     </div>
                                 </div>
                                 <div class="feature-content d-flex flex-column">
-                                    <h5 class="mb-4">Dukungan Psikologis Awal (DUPA)  RS KK</h5>
+                                    <h5 class="mb-4">Trauma Centre</h5>
+                                    <p class="mb-4">Support for emergency respons</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                    <!-- <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -141,8 +147,8 @@ include 'header.php';
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    </div> -->
+                    <!-- <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -155,7 +161,7 @@ include 'header.php';
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -258,7 +264,8 @@ include 'header.php';
                 <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item rounded">
                         <div class="service-img rounded-top">
-                            <img src="img/wifi.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <img src="img/laparoskopi.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <h5 class="mb-4">lAPAROSKOPI</h5>
                         </div>
                         <div class="service-content rounded-bottom">
                         </div>
@@ -267,7 +274,8 @@ include 'header.php';
                 <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item rounded">
                         <div class="service-img rounded-top">
-                            <img src="img/tv.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <img src="img/usg3D.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <h5 class="mb-4">USG 3 Dimensi</h5>
                         </div>
                         <div class="service-content rounded-bottom">
                             <div class="service-content-inner">
@@ -278,7 +286,8 @@ include 'header.php';
                 <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item rounded">
                         <div class="service-img rounded-top">
-                            <img src="img/pelayan.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <img src="img/eeg.png" class="img-fluid rounded-top w-100" alt="">
+                            <h5 class="mb-4">Electroechepalogram (EEG)</h5>
                         </div>
                         <div class="service-content rounded-bottom">
                             <div class="service-content-inner">
@@ -289,7 +298,44 @@ include 'header.php';
                 <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item rounded">
                         <div class="service-img rounded-top">
-                            <img src="img/AC.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <img src="img/incubator.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <h5 class="mb-4">Ventilator, Inkubator & CPAP</h5>
+                        </div>
+                        <div class="service-content rounded-bottom">
+                            <div class="service-content-inner">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item rounded">
+                        <div class="service-img rounded-top">
+                            <img src="img/kelas1.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <h5 class="mb-4">Ruang Kelas 1</h5>
+                        </div>
+                        <div class="service-content rounded-bottom">
+                            <div class="service-content-inner">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item rounded">
+                        <div class="service-img rounded-top">
+                            <img src="img/kelas2.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <h5 class="mb-4">Ruang Kelas 2</h5>
+                        </div>
+                        <div class="service-content rounded-bottom">
+                            <div class="service-content-inner">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item rounded">
+                        <div class="service-img rounded-top">
+                            <img src="img/kelas3.jpg" class="img-fluid rounded-top w-100" alt="">
+                            <h5 class="mb-4">Ruang Kelas 3</h5>
                         </div>
                         <div class="service-content rounded-bottom">
                             <div class="service-content-inner">
