@@ -1181,16 +1181,14 @@
 }
 /*** copyright end ***/
 
-th {
-    text-align: center;
-    background-color: #15b9d9;
+.table thead {
+    background: #15b9d9;
 }
 
 table, th, td {
-    border: 1px solid black;
     border-collapse: collapse;
 }
 
-tr:nth-child(odd) {
-    background-color: #D6EEEE;
+tr:nth-child(even) {
+    background-color: #e9fcff;
 }

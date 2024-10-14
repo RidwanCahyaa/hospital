@@ -120,42 +120,41 @@ include 'header.php';
                 </div>
         </div>
         <div class="row g-4 justify-content-center">
-            <table style="width:100%">
-                <tr>
-                    <th>Dokter</th>
-                    <th>Hari</th>
-                    <th>Jam</th>
-                </tr>
-                <tr>
-                    <td>Ridwan Cahya</td>
-                    <td>Senin, Rabu & Kamis</td>
-                    <td>09:00-11:00</td>
-                </tr>
-                <tr>
-                    <td>Acep Arimansyah</td>
-                    <td>Selasa & Jumat</td>
-                    <td>08:00-11:30</td>
-                </tr>
-                <tr>
-                    <td>Ridwan Cahya</td>
-                    <td>Senin, Rabu & Kamis</td>
-                    <td>09:00-11:00</td>
-                </tr>
-                <tr>
-                    <td>Acep Arimansyah</td>
-                    <td>Selasa & Jumat</td>
-                    <td>08:00-11:30</td>
-                </tr>
-                <tr>
-                    <td>Ridwan Cahya</td>
-                    <td>Senin, Rabu & Kamis</td>
-                    <td>09:00-11:00</td>
-                </tr>
-                <tr>
-                    <td>Acep Arimansyah</td>
-                    <td>Selasa & Jumat</td>
-                    <td>08:00-11:30</td>
-                </tr>
+            <table class="table">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col" style="border-top-left-radius: 10px;">No</th>
+                        <th scope="col">Dokter</th>
+                        <th scope="col">Hari</th>
+                        <th scope="col" style="border-top-right-radius: 10px;">Jam</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Acep Arimansyah</td>
+                        <td>Senin & Jumat</td>
+                        <td>07:00-15:00</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Ridwan Cahya</td>
+                        <td>Rabu & Kamis</td>
+                        <td>07:00-13:00</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Muhammad Rangga</td>
+                        <td>Selasa & Sabtu</td>
+                        <td>08:30-17:00</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>Indra Fahrizal</td>
+                        <td>Senin & Selasa</td>
+                        <td>18:30-01:00</td>
+                    </tr>
+                </tbody>
             </table>
         </div>
     </div>
