@@ -215,7 +215,7 @@
 }
 
 .navbar-light .navbar-brand img {
-    max-height: 50px;
+    max-height: 90px;
     transition: .5s;
 }
 
@@ -460,6 +460,8 @@
     position: relative;
     overflow: hidden;
     z-index: 1;
+    min-height: 270px;
+    text-align: center;
 }
 
 .service .service-item .service-img img {
@@ -545,7 +547,7 @@
     border: 10px solid; 
     border-color: var(--bs-white) var(--bs-white) var(--bs-white) var(--bs-white);
     border-radius: 50%;
-
+    height: 300px;
 }
 
 .about .about-img .about-experience {
@@ -1182,16 +1184,14 @@
 }
 /*** copyright end ***/
 
-th {
-    text-align: center;
-    background-color: #15b9d9;
+.table thead {
+    background: #15b9d9;
 }
 
 table, th, td {
-    border: 1px solid black;
     border-collapse: collapse;
 }
 
-tr:nth-child(odd) {
-    background-color: #D6EEEE;
+tr:nth-child(even) {
+    background-color: #e9fcff;
 }

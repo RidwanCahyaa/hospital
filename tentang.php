@@ -33,10 +33,21 @@ include 'header.php';
                     </div>
                     <h1 class="display-3 mb-4">VISI & MISI</h1>
                     <h2 class="mb-4">visi</h2>
-                    <p>Menjadi RSUD dengan ungulan kesehatan kerja</p>
+                    <p>Menjadi RSUD dengan unggulan kesehatan kerja berstandar internasional pada tahun 2030.</p>
 
-                    <h2 class="mb-4">misi</h2>
-                    <p>Menyelenggarakan Pelayanan Kesehatan Rujukan yang Komprehensif dan Holistik, Berkualitas dengan Unggulan Kesehatan Kerja. & Berkontribusi dalam Pendidikan, Pelatihan, Penelitian dan Pengembangan di bidang Kesehatan Kerja</p>
+                    <h2 class="mb-4">Misi</h2>
+                    <p>1. Menyelenggarakan pelayanan kesehatan rujukan yang komprehensif dan holistik, berkualitas dengan unggulan kesehatan kerja.</p>
+                    <p>2. Berkontribusi dalam pendidikan, pelatihan, penelitian dan pengembangan di bidang kesehatan kerja.</p>
+                </div>
+                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.3s">
+                    <p>Sebagai salah satu upaya dalam mewujudkan Misi tersebut, BLUD RSKK telah mendapatkan predikat Akreditasi Paripurna pada tahun 2022. BLUD RSKK aktif dalam berbagai kegiatan dan senantiasa meningkatkan kualitas pelayanannya dengan mengirim Sumber Daya Manusia (SDM) BLUD RSKK mengikuti berbagai pelatihan peningkatan kompetensi. Dalam pemberian layanan kesehatan kepada masyarakat, BLUD RSKK menganut nilai-nilai berikut:</p>
+                    <p>a. Profesional;</p>
+                    <p>b. Akuntabilitas;</p>
+                    <p>c. Transparansi;</p>
+                    <p>d. Integritas; dan </p>
+                    <p>e. Kerja sama. </p>
+                    <p>Nilai-nilai yang dianut BLUD RSKK tersebut diharapkan dapat tercermin dalam setiap layanan yang diberikan, sehingga dapat meningkatkan kualitas pelayanan kesehatan masyarakat yang diberikan.</p>
+                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Download</a>
                 </div>
             </div>
         </div>
@@ -55,7 +66,7 @@ include 'header.php';
         </div>
         <!-- Feature End -->
         <div class="container py-5">
-            <img src="img/struktur-ORGANISASI.png" width="1300px">
+            <img src="img/struktur-ORGANISASI.png" width="1100px">
         </div>
 
         <?php include 'footer.php'; ?>

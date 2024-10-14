@@ -34,7 +34,7 @@ include 'header.php';
                     <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
                 </div>
                 <div class="row g-4 justify-content-center">
-                <a href="klinik-spesialis.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -62,7 +62,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a href="klinik-rehabilitas.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -76,7 +76,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a href="klinik-obstretri.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -90,7 +90,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a href="klinik-penyakit.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -104,7 +104,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a href="klinik-psikososial.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -118,7 +118,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a href="klinik-gizi.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -132,7 +132,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -146,7 +146,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -160,7 +160,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -174,7 +174,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -188,7 +188,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
@@ -202,7 +202,7 @@ include 'header.php';
                             </div>
                         </div>
                     </a>
-                    <a class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                    <a href="klinik-anak.php" class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="row-cols-1 feature-item p-4">
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
