@@ -64,7 +64,7 @@ include 'header.php';
                         <div class="col-12">
                             <div class="feature-icon mb-4">
                                 <div class="p-3 d-inline-flex bg-white rounded">
-                                    <i class="fas fa-briefcase-medical fa-4x text-primary"></i>
+                                    <i class="	fas fa-clock  fa-4x text-primary"></i>
                                 </div>
                             </div>
                             <div class="feature-content d-flex flex-column">
@@ -79,7 +79,7 @@ include 'header.php';
                         <div class="col-12">
                             <div class="feature-icon mb-4">
                                 <div class="p-3 d-inline-flex bg-white rounded">
-                                    <i class="fas fa-hospital-user fa-4x text-primary"></i>
+                                    <i class="fas fa-hospital fa-4x text-primary"></i>
                                 </div>
                             </div>
                                 <div class="feature-content d-flex flex-column">
@@ -94,7 +94,7 @@ include 'header.php';
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
                                     <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-users fa-4x text-primary"></i>
+                                        <i class="fas fa-bed fa-4x text-primary"></i>
                                     </div>
                                 </div>
                                 <div class="feature-content d-flex flex-column">
@@ -109,7 +109,7 @@ include 'header.php';
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
                                     <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-spa fa-4x text-primary"></i>
+                                        <i class="fas fa-ambulance fa-4x text-primary"></i>
                                     </div>
                                 </div>
                                 <div class="feature-content d-flex flex-column">
@@ -124,7 +124,7 @@ include 'header.php';
                             <div class="col-12">
                                 <div class="feature-icon mb-4">
                                     <div class="p-3 d-inline-flex bg-white rounded">
-                                        <i class="fas fa-heart fa-4x text-primary"></i>
+                                        <i class="fas fa-head-side-virus fa-4x text-primary"></i>
                                     </div>
                                 </div>
                                 <div class="feature-content d-flex flex-column">

@@ -22,45 +22,47 @@ include 'header.php';
         </div>
 
         <!-- partial:index.partial.html -->
-    <h1>Sejarah</h1>
     <ul>
-    <li style="--accent-color:#4CADAD">
-            <div class="date">1992</div>
-            <div class="descr"> PT. Jamsostek menghibahkan dana kepada Pemerintah Provinsi Jawa Barat dalam upaya peningkatan pelayanan kesehatan bagi tenaga kerja.</div>
+        <li class="wow fadeInLeft" data-wow-delay="0.2s" style="--accent-color:#15b9d9">
+            <div class="date" >1992</div>
+            <div class="descr" > PT. Jamsostek menghibahkan dana kepada Pemerintah Provinsi Jawa Barat dalam upaya peningkatan pelayanan kesehatan bagi tenaga kerja.</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li class="wow fadeInRight" data-wow-delay="0.4s" style="--accent-color:#15b9d9">
             <div class="date">1994</div>
             <div class="descr">telah dibangun gedung PKTK di 4 lokasi yaitu Bandung, Bogor, Bekasi dan Tangerang.</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li  class="wow fadeInLeft" data-wow-delay="0.6s" style="--accent-color:#15b9d9">
             <div class="date">1995</div>
             <div class="descr">Bangunan dan kelengkapannya diserahkan kepada Kantor Wilayah Departemen Kesehatan Provinsi Jawa Barat</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li  class="wow fadeInRight" data-wow-delay="0.8s" style="--accent-color:#15b9d9">
             <div class="date">1997</div>
             <div class="descr">berdasarkan Keputusan Gubernur Kepala Daerah Tingkat I Provinsi Jawa Barat Nomor 31 Tahun 1997 tentang Pembentukan Organisasi dan Tata Kerja Balai Kesehatan Tenaga Kerja, PKTK bertransformasi menjadi Balai Kesehatan Tenaga Kerja (BKTK).</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li  class="wow fadeInLeft" data-wow-delay="0.10s" style="--accent-color:#15b9d9">
             <div class="date">1999</div>
             <div class="descr">Menko Wasbangpan memberikan persetujuan pembentukan Balai Kesehatan Kerja Masyarakat (BKKM) di Bandung, Bekasi, Bogor, dan Tangerang.</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li  class="wow fadeInRight" data-wow-delay="0.12s" style="--accent-color:#15b9d9">
             <div class="date">2006</div>
             <div class="descr"> telah dikeluarkan Surat Perintah Gubernur Jawa Barat Nomor 593/516/Huk kepada Kepala Dinas Kesehatan Provinsi Jawa Barat untuk pengelolaan aset BKKM Bandung sebagai Pusat Pengembangan Kesehatan Kerja Provinsi Jawa Barat.</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li  class="wow fadeInLeft" data-wow-delay="0.14s" style="--accent-color:#15b9d9">
             <div class="date">2009</div>
             <div class="descr">melalui Peraturan Gubernur Jawa Barat Nomor 113 tahun 2009 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis Dinas dan Badan di Lingkungan Provinsi Jawa Barat, Pemerintah Provinsi Jawa Barat memutuskan bahwa BKKM Provinsi Jawa Barat merupakan salah satu RSKK Dinas Kesehatan Provinsi Jawa Barat.</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li  class="wow fadeInRight" data-wow-delay="0.16s" style="--accent-color:#15b9d9">
             <div class="date">2017</div>
             <div class="descr">BKKM Provinsi Jawa Barat ditetapkan menjadi BLUD RSKK dengan unggulan Pelayanan Kesehatan Kerja dalam Peraturan Gubernur Provinsi Jawa Barat Nomor 69 Tahun 2017 tentang Pembentukan dan Susunan Organisasi Cabang Dinas dan Unit Pelaksana Teknis Dinas di Lingkungan Pemerintah Provinsi Jawa Barat berikut perubahannya.</div>
         </li>
-        <li style="--accent-color:#4CADAD">
+        <li  class="wow fadeInLeft" data-wow-delay="0.18s" style="--accent-color:#15b9d9">
             <div class="date">2022</div>
             <div class="descr"> terdapat perubahan nomenklatur, melalui Peraturan Gubernur Jawa Barat Nomor 30 Tahun 2022 tentang Pembentukan dan Susunan Organisasi Cabang Dinas, Unit Pelaksana Teknis Daerah dan Unit Organisasi Bersifat Khusus di Lingkungan Pemerintah Daerah Provinsi Jawa Barat, BLUD RSKK kini menjadi Unit Organisasi Bersifat Khusus (UOBK).</div>
         </li>
     </ul>
+    <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.3s">
+        <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Download</a>
+    </div>
     <!-- partial -->
 
         <!-- About Start -->

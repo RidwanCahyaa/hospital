@@ -24,34 +24,41 @@ include 'header.php';
         </div>
         <!-- Header End -->
 
-        <!-- Team Start -->
-        <div class="container-fluid team py-5">
-            <div class="container py-5">
-                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="sub-style">
-                        <h4 class="sub-title px-3 mb-0">RSKK</h4>
-                    </div>
-                    <h1 class="display-3 mb-4">VISI & MISI</h1>
-                    <h2 class="mb-4">visi</h2>
-                    <p>Menjadi RSUD dengan unggulan kesehatan kerja berstandar internasional pada tahun 2030.</p>
-
-                    <h2 class="mb-4">Misi</h2>
-                    <p>1. Menyelenggarakan pelayanan kesehatan rujukan yang komprehensif dan holistik, berkualitas dengan unggulan kesehatan kerja.</p>
-                    <p>2. Berkontribusi dalam pendidikan, pelatihan, penelitian dan pengembangan di bidang kesehatan kerja.</p>
+<!-- About Start -->
+<div class="container-fluid about bg-light py-5">
+    <div class="container py-5">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-5 wow fadeInLeft" data-wow-delay="0.2s">
+                <div class="about-img pb-7 ps-7">
+                    <img src="img/profil.jpg" class="img-fluid rounded w-100" style="object-fit: cover;" alt="Image">
+                    <!-- <div class="about-experience">15 years experience</div> -->
                 </div>
-                <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.3s">
-                    <p>Sebagai salah satu upaya dalam mewujudkan Misi tersebut, BLUD RSKK telah mendapatkan predikat Akreditasi Paripurna pada tahun 2022. BLUD RSKK aktif dalam berbagai kegiatan dan senantiasa meningkatkan kualitas pelayanannya dengan mengirim Sumber Daya Manusia (SDM) BLUD RSKK mengikuti berbagai pelatihan peningkatan kompetensi. Dalam pemberian layanan kesehatan kepada masyarakat, BLUD RSKK menganut nilai-nilai berikut:</p>
-                    <p>a. Profesional;</p>
-                    <p>b. Akuntabilitas;</p>
-                    <p>c. Transparansi;</p>
-                    <p>d. Integritas; dan </p>
-                    <p>e. Kerja sama. </p>
-                    <p>Nilai-nilai yang dianut BLUD RSKK tersebut diharapkan dapat tercermin dalam setiap layanan yang diberikan, sehingga dapat meningkatkan kualitas pelayanan kesehatan masyarakat yang diberikan.</p>
-                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-1">Download</a>
+            </div>
+            <div class="col-lg-7 wow fadeInRight" data-wow-delay="0.4s">
+                <div class="section-title text-start mb-5">
+                    <h4 class="sub-title pe-3 mb-0">Profil</h4>
+                    <h1 class="display-3 mb-4">Visi & Misi</h1>
+                    <h4 class="mb-4">Visi</h4>
+                    <p class="mb-4">Menjadi RSUD dengan unggulan kesehatan kerja berstandar internasional pada tahun 2030. </p>
+                    <h4 class="mb-4">Misi</h4>
+                    <p class="mb-4">1. Menyelenggarakan pelayanan kesehatan rujukan yang komprehensif dan holistik, berkualitas dengan unggulan kesehatan kerja. </p>
+                    <p class="mb-4">2. Berkontribusi dalam pendidikan, pelatihan, penelitian dan pengembangan di bidang kesehatan kerja.</p>
+                    <p class="mb-4">Sebagai salah satu upaya dalam mewujudkan Misi tersebut, BLUD RSKK telah mendapatkan predikat Akreditasi Paripurna pada tahun 2022. BLUD RSKK aktif dalam berbagai kegiatan dan senantiasa meningkatkan kualitas pelayanannya dengan mengirim Sumber Daya Manusia (SDM) BLUD RSKK mengikuti berbagai pelatihan peningkatan kompetensi.</p>
+                    <p class="mb-4">Dalam pemberian layanan kesehatan kepada masyarakat, BLUD RSKK menganut nilai-nilai berikut:</p>
+                    
+                        <h6 class="text-secondary"><i class="text-primary me-2"></i>a. Profesional,</h6>
+                        <h6 class="text-secondary"><i class="text-primary me-2"></i>b. Akuntabilitas,</h6>
+                        <h6 class="text-secondary"><i class="text-primary me-2"></i>c. Transparansi,</h6>
+                        <h6 class="text-secondary"><i class="text-primary me-2"></i>d. Integritas,</h6>
+                        <h6 class="text-secondary"><i class="text-primary me-2"></i>e. Kerja sama.</h6>
+                        <p class="mb-4">Nilai-nilai yang dianut BLUD RSKK tersebut diharapkan dapat tercermin dalam setiap layanan yang diberikan, sehingga dapat meningkatkan kualitas pelayanan kesehatan masyarakat yang diberikan.</p>
+                    </div>
                 </div>
             </div>
         </div>
-        <!-- Team End -->
+    </div>
+</div>
+<!-- About End -->
 
         <!-- Feature Start -->
         <div class="container-fluid feature py-5">
